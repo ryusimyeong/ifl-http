@@ -30,3 +30,8 @@
 - [5. HTTP 메시지](./03-HTTP기본/05.md)
 
 ### 4. HTTP 메서드
+
+- [1. HTTP API를 만들어보자](./04-HTTP메서드/01.md)
+- [2. HTTP 메서드 - GET, POST](./04-HTTP메서드/02.md)
+- [3. HTTP 메서드 - PUT, PATCH, DELETE](./04-HTTP메서드/03.md)
+- [4. HTTP 메서드의 속성](./04-HTTP메서드/04.md)
